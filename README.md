@@ -1,7 +1,7 @@
 # Smart-Blinds: Automated Sun-Responsive Blinds
 
 ## Description
-The goal is to create a program that will utilize a raspberry pi aswell as sensors/actuators, to automatically open your blinds in the morning. These sensors will include a sunlight sensor and a motor to spin the "wand"
+The goal is to create a program that will utilize a raspberry pi as well as sensors/actuators, to automatically open your blinds in the morning. These sensors will include a sunlight sensor and a motor to spin the "wand"
 
 ## Team
 - Joe Routhieaux
